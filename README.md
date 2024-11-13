@@ -1,8 +1,8 @@
-FocusTimer é um aplicativo web simples de temporizador de foco, projetado para ajudar os usuários a gerenciar melhor seu tempo e manter a concentração. O aplicativo oferece funcionalidades de temporizador com sons de fundo relaxantes, como floresta, chuva e café, além de modos que permitem alternar entre tarefas e pausas.
+<h1>FocusTimer é um aplicativo web simples de temporizador de foco, projetado para ajudar os usuários a gerenciar melhor seu tempo e manter a concentração. O aplicativo oferece funcionalidades de temporizador com sons de fundo relaxantes, como floresta, chuva e café, além de modos que permitem alternar entre tarefas e pausas.</h1>
 
-Tecnologias Utilizadas
-HTML5: Estrutura básica da aplicação.
-CSS3: Estilização do layout e dos elementos visuais.
+<h2>Tecnologias Utilizadas</h2>
+<p>HTML5: Estrutura básica da aplicação.</p>
+<p>CSS3: Estilização do layout e dos elementos visuais.</p>
 JavaScript (ES6): Lógica do temporizador e controle dos sons.
 
 
