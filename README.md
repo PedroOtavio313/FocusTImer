@@ -16,7 +16,7 @@
 Clone o repositório:
   git clone https://github.com/PedroOtavio313/FocusTImer.git
 
-<strong>Abra o arquivo index.html diretamente no seu navegador:</strong>
+<strong>Abra o arquivo index.html diretamente no seu navegador</strong>
 
 <p>Navegue até o diretório do projeto e clique duas vezes no arquivo index.html para abrir o aplicativo.</p>
 
