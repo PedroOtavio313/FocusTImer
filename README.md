@@ -18,7 +18,7 @@ Clone o repositório:
 
 <strong>Abra o arquivo index.html diretamente no seu navegador:</strong>
 
-Navegue até o diretório do projeto e clique duas vezes no arquivo index.html para abrir o aplicativo.
+<p>Navegue até o diretório do projeto e clique duas vezes no arquivo index.html para abrir o aplicativo.</p>
 
 <h2>Mode de usar:</h2>
   <p>Ajuste o temporizador conforme necessário.</p>
